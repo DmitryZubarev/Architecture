@@ -9,7 +9,7 @@
 
 ### Контроллер Management
 
-![Alt text](../pictures/image.png)
+![Alt text](../pictures/management.png)
 
 Контроллер включает в себя методы для реализации CRUD-операций по тарифам, которые включают в себя id, product, period и price.
 
