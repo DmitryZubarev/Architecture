@@ -53,43 +53,50 @@
 
 ![Alt text](../pictures/manag_get_body.png)
 ![Alt text](../pictures/manag_get_head.png)
+![alt text](../pictures/manag_get_test.png)
 
 ### Management.Post
 
 ![Alt text](../pictures/manag_post.png)
+![alt text](../pictures/manag_post_test.png)
 
 ### Management.Put
 
 ![Alt text](../pictures/manag_put.png)
+![alt text](../pictures/manag_put_test.png)
 
 ### Management.Delete
 
 ![Alt text](../pictures/manag_delete.png)
+![alt text](../pictures/manag_delete_test.png)
 
-### Management Result 
-
-![Alt text](../pictures/manag_result.png)
 
 ### Refund.Post
 
 ![Alt text](../pictures/refund_post.png)
+![alt text](../pictures/ref_post_test.png)
 
 ### Refund.Get
 
 ![Alt text](../pictures/refund_get.png)
+![alt text](../pictures/refund_get_test.png)
 
 ### Statistics.Post
 
 ![Alt text](../pictures/stat_post.png)
+![alt text](../pictures/stat_post_test.png)
 
 ### Statistics.Get
 
 ![Alt text](../pictures/stat_get.png)
+![alt text](../pictures/stat_get_test.png)
 
 ### Payment.Post
 
 ![Alt text](../pictures/pay_post.png)
+![alt text](../pictures/pay_post_test.png)
 
 ### Payment.Get
 
 ![Alt text](../pictures/pay_get.png)
+![alt text](../pictures/pay_get_test.png)
